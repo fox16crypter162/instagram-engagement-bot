@@ -1,2 +1,2 @@
 # instagram-engagement-bot
-Automated Instagram engagement tool
+The instagram-engagement-bot is an automation tool designed to enhance user engagement on Instagram by automating key tasks like liking posts, commenting on them, and following users. It helps businesses, marketers, and content creators scale their engagement efforts while maintaining active interaction with their audience.
